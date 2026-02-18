@@ -1,4 +1,4 @@
-Aanalise-faturamento-lojas
+Analise-faturamento-lojas
 Análise Estratégica de Desempenho – Alura Store Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um desafio de Data Science com o objetivo de analisar o desempenho das quatro lojas da rede Alura Store e recomendar qual unidade deve ser vendida para viabilizar um novo empreendimento.
